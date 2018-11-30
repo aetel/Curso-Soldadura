@@ -8,6 +8,7 @@ PCB y Prensentación para un curso de iniciación a la soldadura
 Lista de componentes:
 
 2x Leds 5mm
+
 2x Condensador Electrolítico 10uF
 2x Resistencia 330 ohm
 2x Resistencia 33k ohm
